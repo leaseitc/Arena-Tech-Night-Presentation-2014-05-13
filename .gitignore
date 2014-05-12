@@ -1,0 +1,8 @@
+# Ignore Everything
+*
+
+# Except these files
+!.gitignore
+!README.md
+!2014-05-13_AR-Drone-101.odp
+!camera-preview.mp4
